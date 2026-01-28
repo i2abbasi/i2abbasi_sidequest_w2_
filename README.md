@@ -1,4 +1,4 @@
-## Project Title
+## Blob (Panic Animation)
 
 GBDA302 Week 2 Example 1: Blob (Breathing Animation)
 
@@ -6,23 +6,13 @@ GBDA302 Week 2 Example 1: Blob (Breathing Animation)
 
 ## Authors
 
-Karen Cochrane and David Han
+Iba Abbasi
 
 ---
 
 ## Description
 
-A simple animated “blob” made from a ring of points. Perlin noise perturbs the radius over time to create an organic, breathing effect. No input yet.
-
----
-
-## Learning Goals
-
-Learning Goals:
-
-- Understand setup()/draw() structure
-- Build a custom shape from polar points
-- Use noise() for smooth, organic motion
+A simple animated “blob” made from a ring of points. Perlin noise perturbs the radius over time to create an organic, breathing effect. In addition to the normal breathing animation, the blob can enter a panic state when the player presses the spacebar
 
 ---
 
@@ -34,6 +24,6 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+Ideation written by Iba Abbasi, GenAI used to assist in coding and comment writing.
 
 ---
